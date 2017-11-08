@@ -115,7 +115,7 @@ SWIGEXEC=swig
 # python3 -c "import numpy ; print(numpy.get_include())"
 #
 
-PYTHONCFLAGS=-I/usr/include/python2.7/ -I../venv/local/lib/python2.7/site-packages/numpy/core/include/
+PYTHONCFLAGS=-I/usr/include/python2.7/ -I/home/ubuntu/www/milo/shared/cached-copy/venv/local/lib/python2.7/site-packages/numpy/core/include/
 
 
 ###########################################################################
